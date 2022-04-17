@@ -1,0 +1,28 @@
+.rec1{
+    position: absolute;
+    border: 1px solid red;
+    margin-left: 460px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+}
+.rec2{
+    position:absolute;
+    border: 1px solid aqua;
+    margin-left: 275px;
+    margin-top: 325px;
+    margin-bottom: 100px;
+}
+.rec3{
+    position: absolute;
+    border: 1px solid brown;
+    margin-left: 610px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.rec4{
+    position: absolute;
+    border: 1px solid blue;
+    margin-left: 610px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+}
